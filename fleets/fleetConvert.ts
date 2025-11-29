@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 const CSV_PATH = "./fleets/aircraft-database-complete-2025-08.csv";
-const JSON_PATH = "./fleets/aircraft-database-2025-08.json";
+const JSON_PATH = "./fleets/fleets.json";
 
 interface AircraftRecord {
     icao24: string;
