@@ -7,8 +7,9 @@ const JSON_PATH = "./fleets/fleets.json";
 interface AircraftRecord {
     icao24: string;
     built: string;
+    manufacturerName: string;
     model: string;
-    operatorIcao: string;
+    owner: string;
     registration: string;
     selCal: string;
     serialNumber: string;
@@ -46,7 +47,8 @@ function parseAircraftCsv(): AircraftRecord[] {
             icao24: row.icao24,
             built: row.built,
             model: row.model,
-            operatorIcao: row.operatorIcao,
+            manufacturerName: row.manufacturerName,
+            owner: row.owner,
             registration: row.registration,
             selCal: row.selCal,
             serialNumber: row.serialNumber,
