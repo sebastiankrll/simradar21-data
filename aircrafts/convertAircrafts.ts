@@ -3,7 +3,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 const inputPath = path.join(__dirname, 'planes.dat');
-const outputPath = path.join(__dirname, 'planes.json');
+const outputPath = path.join(__dirname, 'aircrafts.json');
 
 // Read the .dat file
 const datContent = fs.readFileSync(inputPath, 'utf-8');
