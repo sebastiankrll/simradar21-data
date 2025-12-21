@@ -90,11 +90,6 @@
     "icao": "A21N"
   },
   {
-    "name": "Airbus A330",
-    "iata": "330",
-    "icao": null
-  },
-  {
     "name": "Airbus A330-200",
     "iata": "332",
     "icao": "A332"
@@ -120,11 +115,6 @@
     "icao": "A339"
   },
   {
-    "name": "Airbus A340",
-    "iata": "340",
-    "icao": null
-  },
-  {
     "name": "Airbus A340-200",
     "iata": "342",
     "icao": "A342"
@@ -145,11 +135,6 @@
     "icao": "A346"
   },
   {
-    "name": "Airbus A350",
-    "iata": "350",
-    "icao": null
-  },
-  {
     "name": "Airbus A350-1000",
     "iata": "351",
     "icao": "A35K"
@@ -158,11 +143,6 @@
     "name": "Airbus A350-900",
     "iata": "359",
     "icao": "A359"
-  },
-  {
-    "name": "Airbus A380",
-    "iata": "380",
-    "icao": null
   },
   {
     "name": "Airbus A380-800",
@@ -245,11 +225,6 @@
     "icao": "RJ85"
   },
   {
-    "name": "BAe 146",
-    "iata": "146",
-    "icao": null
-  },
-  {
     "name": "BAe 146-100",
     "iata": "141",
     "icao": "B461"
@@ -300,11 +275,6 @@
     "icao": "B720"
   },
   {
-    "name": "Boeing 727",
-    "iata": "727",
-    "icao": null
-  },
-  {
     "name": "Boeing 727-100",
     "iata": "721",
     "icao": "B721"
@@ -313,16 +283,6 @@
     "name": "Boeing 727-200",
     "iata": "722",
     "icao": "B722"
-  },
-  {
-    "name": "Boeing 737",
-    "iata": "737",
-    "icao": null
-  },
-  {
-    "name": "Boeing 737 MAX 10",
-    "iata": "7MJ",
-    "icao": null
   },
   {
     "name": "Boeing 737 MAX 7",
@@ -380,11 +340,6 @@
     "icao": "B739"
   },
   {
-    "name": "Boeing 747",
-    "iata": "747",
-    "icao": null
-  },
-  {
     "name": "Boeing 747 LCF Dreamlifter",
     "iata": "74B",
     "icao": "BLCF"
@@ -430,11 +385,6 @@
     "icao": "B74R"
   },
   {
-    "name": "Boeing 757",
-    "iata": "757",
-    "icao": null
-  },
-  {
     "name": "Boeing 757-200",
     "iata": "752",
     "icao": "B752"
@@ -443,11 +393,6 @@
     "name": "Boeing 757-300",
     "iata": "753",
     "icao": "B753"
-  },
-  {
-    "name": "Boeing 767",
-    "iata": "767",
-    "icao": null
   },
   {
     "name": "Boeing 767-200",
@@ -463,11 +408,6 @@
     "name": "Boeing 767-400",
     "iata": "764",
     "icao": "B764"
-  },
-  {
-    "name": "Boeing 777",
-    "iata": "777",
-    "icao": null
   },
   {
     "name": "Boeing 777-200",
@@ -498,11 +438,6 @@
     "name": "Boeing 777-9",
     "iata": "779",
     "icao": "B779"
-  },
-  {
-    "name": "Boeing 787",
-    "iata": "787",
-    "icao": null
   },
   {
     "name": "Boeing 787-10",
@@ -828,11 +763,6 @@
     "name": "Embraer 170",
     "iata": "E70",
     "icao": "E170"
-  },
-  {
-    "name": "Embraer 175",
-    "iata": "E75",
-    "icao": null
   },
   {
     "name": "Embraer 175 (long wing)",
