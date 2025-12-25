@@ -4888,7 +4888,11 @@
     "iata": "QY",
     "name": "European Air Transport",
     "callsign": "EUROTRANS",
-    "country": "Belgium"
+    "country": "Belgium",
+    "color": [
+      "#f1cd47",
+      "#bc2c2e"
+    ]
   },
   {
     "id": "BCT",
@@ -5997,14 +6001,14 @@
   },
   {
     "id": "BOX",
-    "iata": "",
-    "name": "Tiphook PLC",
+    "iata": "3S",
+    "name": "Aerologic",
     "callsign": "BOX",
-    "country": "United Kingdom",
+    "country": "Germany",
     "color": [
-      "#040404",
-      "#0a7818",
-      "#1d9133"
+      "#ffffff",
+      "#626a6d",
+      "#f2cd47"
     ]
   },
   {
@@ -11905,6 +11909,17 @@
     "country": "United States"
   },
   {
+    "id": "EJU",
+    "iata": "EC",
+    "name": "easyJet Europe",
+    "callsign": "ALPINE",
+    "country": "Austria",
+    "color": [
+      "#fc6404",
+      "#ffffff"
+    ]
+  },
+  {
     "id": "EJV",
     "iata": "",
     "name": "Compania Ejecutiva",
@@ -13018,6 +13033,17 @@
     ]
   },
   {
+    "id": "EZS",
+    "iata": "DS",
+    "name": "easyJet Switzerland",
+    "callsign": "TOPSWISS",
+    "country": "Switzerland",
+    "color": [
+      "#fc6404",
+      "#ffffff"
+    ]
+  },
+  {
     "id": "EZY",
     "iata": "U2",
     "name": "easyJet",
@@ -13426,9 +13452,9 @@
     "callsign": "FEDEX",
     "country": "United States",
     "color": [
-      "#ec2c24",
-      "#fcf9f9",
-      "#fbb2af"
+      "#ffffff",
+      "#42318e",
+      "#e68133"
     ]
   },
   {
@@ -13764,9 +13790,8 @@
     "callsign": "FINNAIR",
     "country": "Finland",
     "color": [
-      "#fcfcfc",
-      "#090c68",
-      "#bcbcd4"
+      "#ffffff",
+      "#0d0840"
     ]
   },
   {
@@ -15174,7 +15199,11 @@
     "iata": "LH",
     "name": "Lufthansa Cargo",
     "callsign": "LUFTHANSA CARGO",
-    "country": "Germany"
+    "country": "Germany",
+    "color": [
+      "#fcfcfc",
+      "#1a2745"
+    ]
   },
   {
     "id": "GED",
@@ -18232,8 +18261,7 @@
     "country": "Iceland",
     "color": [
       "#041c74",
-      "#f8f8fa",
-      "#bfc4da"
+      "#f8f8fa"
     ]
   },
   {
@@ -19294,6 +19322,18 @@
     "country": "Azerbaijan"
   },
   {
+    "id": "ITY",
+    "iata": "AZ",
+    "name": "ITA Airways",
+    "callsign": "ITARROW",
+    "country": "Italy",
+    "color": [
+      "#ffffff",
+      "#376b46",
+      "#ac3422"
+    ]
+  },
+  {
     "id": "IUS",
     "iata": "",
     "name": "Icarus",
@@ -19494,14 +19534,14 @@
   },
   {
     "id": "JAF",
-    "iata": "JF",
-    "name": "Jetairfly",
+    "iata": "TB",
+    "name": "TUI Airlines Belgium",
     "callsign": "BEAUTY",
     "country": "Belgium",
     "color": [
-      "#d42431",
-      "#fbf6f6",
-      "#eca2a9"
+      "#ffffff",
+      "#c93424",
+      "#212e55"
     ]
   },
   {
@@ -21142,7 +21182,11 @@
     "iata": "WA",
     "name": "KLM Cityhopper",
     "callsign": "CITY",
-    "country": "Netherlands"
+    "country": "Netherlands",
+    "color": [
+      "#049bdc",
+      "#ecf6fa"
+    ]
   },
   {
     "id": "KLD",
@@ -21180,8 +21224,7 @@
     "country": "Netherlands",
     "color": [
       "#049bdc",
-      "#ecf6fa",
-      "#040404"
+      "#ecf6fa"
     ]
   },
   {
@@ -23077,8 +23120,7 @@
     "country": "Poland",
     "color": [
       "#04045f",
-      "#f9f9fb",
-      "#9d9dc6"
+      "#f9f9fb"
     ]
   },
   {
@@ -26162,11 +26204,15 @@
     "country": "Czech Republic"
   },
   {
-    "id": "NAX",
+    "id": "NOZ",
     "iata": "DY",
     "name": "Norwegian Air Shuttle",
     "callsign": "NOR SHUTTLE",
-    "country": "Norway"
+    "country": "Norway",
+    "color": [
+      "#ffffff",
+      "#ca3b36"
+    ]
   },
   {
     "id": "NAY",
@@ -26572,6 +26618,18 @@
     "name": "Oriental Air Bridge",
     "callsign": "ORIENTAL BRIDGE",
     "country": "Japan"
+  },
+  {
+    "id": "NGN",
+    "iata": "KK",
+    "name": "Leav Aviation",
+    "callsign": "YODA",
+    "country": "Germany",
+    "color": [
+      "#ffffff",
+      "#5e84de",
+      "#e68334"
+    ]
   },
   {
     "id": "NGO",
@@ -27828,10 +27886,10 @@
   },
   {
     "id": "OCN",
-    "iata": "",
-    "name": "O Air",
-    "callsign": "O-BIRD",
-    "country": "France",
+    "iata": "4Y",
+    "name": "Discover Airlines",
+    "callsign": "OCEAN",
+    "country": "Germany",
     "color": [
       "#fcfcfb",
       "#5786c6",
@@ -34893,9 +34951,9 @@
     "callsign": "SKYWEST",
     "country": "United States",
     "color": [
-      "#040404",
-      "#f4e3e7",
-      "#f02d3f"
+      "#ffffff",
+      "#a93b39",
+      "#2d5497"
     ]
   },
   {
@@ -36489,9 +36547,9 @@
     "callsign": "SAUDIA",
     "country": "Saudi Arabia",
     "color": [
-      "#fc100fc",
-      "#21733f",
-      "#fcfcfc"
+      "#ffffff",
+      "#25256d",
+      "#9e9167"
     ]
   },
   {
@@ -36631,9 +36689,9 @@
     "callsign": "SOUTHWEST",
     "country": "United States",
     "color": [
-      "#100fcfc",
-      "#fcfcfc",
-      "#1bad95"
+      "#25317c",
+      "#b7332b",
+      "#dfa740"
     ]
   },
   {
@@ -36760,18 +36818,6 @@
     "color": [
       "#dc0404",
       "#fcf9f9"
-    ]
-  },
-  {
-    "id": "SWR",
-    "iata": "SR",
-    "name": "Swissair",
-    "callsign": "Swissair",
-    "country": "Switzerland",
-    "color": [
-      "#dc0404",
-      "#fcf9f9",
-      "#f4a8aa"
     ]
   },
   {
@@ -37157,9 +37203,14 @@
   {
     "id": "TAM",
     "iata": "JJ",
-    "name": "TAM Brazilian Airlines",
+    "name": "LATAM Airlines Brasil",
     "callsign": "TAM",
-    "country": "Brazil"
+    "country": "Brazil",
+    "color": [
+      "#ffffff",
+      "#251683",
+      "#d13753"
+    ]
   },
   {
     "id": "TAN",
